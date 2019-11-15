@@ -1,9 +1,12 @@
 # Кәсіпқойларға арналған Office 365 плюс құпиялылығы
+
 ## [Құпиялылықты басқару элементтерін шолу](overview-privacy-controls.md)
-## [Құпиялылықты басқару элементтерін саясат параметрлерімен басқару](manage-privacy-controls.md)
-## [Құпиялылықты басқару элементтерін параметрлер арқылы басқару (Mac)](mac-privacy-preferences.md)
-## [Құпиялылықты басқару элементтерін параметрлер арқылы басқару (iOS)](ios-privacy-preferences.md)
-## [Құпиялылықты басқару элементтерін саясат параметрлерімен басқару (Android)](android-privacy-controls.md)
+
+## Құпиялылық басқару элементтерін басқару
+### [Windows жүйесі саясатының параметрлері](manage-privacy-controls.md)
+### [Mac жүйесінің параметрлері](mac-privacy-preferences.md)
+### [iOS жүйесінің параметрлері](ios-privacy-preferences.md)
+### [Android жүйесі саясатының параметрлері](android-privacy-controls.md)
 
 ## Диагностикалық деректер
 ### [Міндетті диагностикалық деректер](required-diagnostic-data.md)
